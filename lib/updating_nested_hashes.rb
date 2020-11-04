@@ -20,7 +20,7 @@ def update_status
       }
    }
 
- epic_tragedy[:monague][:hero][:status] = "Dead"
+ epic_tragedy[:monague][:hero][:status] = "dead"
 
 
 
